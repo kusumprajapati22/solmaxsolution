@@ -268,6 +268,21 @@
 .bg-breadcrumb .breadcrumb .breadcrumb-item a {
     color: var(--bs-white);
 }
+
+
+.bg-breadcrumb1 {
+    position: relative;
+    overflow: hidden;
+    background: linear-gradient(rgba(0, 18, 72, 0.7), rgba(0, 18, 72, 0.7)), url(../img/carousel-4.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 60px 0 60px 0;
+}
+
+.bg-breadcrumb1 .breadcrumb1 {
+    position: relative;
+}
 /*** Single Page Hero Header End ***/
 
 /*** Carousel Start ***/
